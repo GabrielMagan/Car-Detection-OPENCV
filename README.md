@@ -1,5 +1,5 @@
-<div style="display: inline_block"><br>
-  <h1>
+<div style="display: inline_block" ><br>
+  <h1 align="center">
    <img align="center" alt="mgn-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"> Detecção de veículos utilizando OPENCV <img align="center" alt="mgn-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
   
 
