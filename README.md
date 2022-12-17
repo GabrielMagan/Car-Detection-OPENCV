@@ -1,10 +1,10 @@
 
 # Detecção de veículos utilizando visão computacional
 
-### (Aviso) 
+### ⚠️(Aviso)⚠️
 - Para utilização da função "video" é necessário baixar um vídeo contendo o nome "road.mp4" e jogá-lo na mesma pasta que estam os arquivos .py
 
-### (Sobre)
+### 📋(Sobre)📋
 - Desenvolvi um software de detecção de veículos para a challenge FIAP & BOSCH 2022.
 
 - O software se consiste em um sistema de detecção de veículos que contem 2 algoritmos de visão computacional para a identificação de carros.
