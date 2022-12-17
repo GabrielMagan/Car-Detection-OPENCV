@@ -1,5 +1,7 @@
-
-# Detecção de veículos utilizando visão computacional
+<div style="display: inline_block"><br>
+  <h1>
+   <img align="center" alt="mgn-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"> Detecção de veículos utilizando OPENCV <img align="center" alt="mgn-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">
+  
 
 ### ⚠️(Aviso)⚠️
 - Para utilização da função "video" é necessário baixar um vídeo contendo o nome "road.mp4" e jogá-lo na mesma pasta que estam os arquivos .py
@@ -16,9 +18,7 @@
 
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/111460258/208217871-bd2b00f1-f3d6-487e-bf1f-cf70a85e660e.png" />
-</h1>
 
-<h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://user-images.githubusercontent.com/111460258/208217910-f60aa7b1-9327-4f03-bfae-15db69b096a9.png" />
 </h1>
 
