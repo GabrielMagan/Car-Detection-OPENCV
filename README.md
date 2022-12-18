@@ -108,17 +108,7 @@ while True:
 
 ```bash
      if cv2.waitKey(1) == 27:     # funcao .waitKey() cria um delay e combinada com o if, gera uma tecla de escape
-        break     # Pare o while 
+        break     # Pare o loop while 
 cap.release()     # Libera a webcam
 cv2.destroyAllWindows()     # Destroi todas as janelas criadas
 ```
-
-
-
-
-
-    
-
-
-
-
