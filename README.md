@@ -100,7 +100,7 @@ while True:
 ```bash
     fps_label = f'FPS: {round((1.0/(end-start)),2)}'      # Faz o calculo de quantos FPS contem no video
     cv2.putText(frame,fps_label, (0,25), cv2.FONT_HERSHEY_SIMPLEX, 1,(0,0,0), 5)      # Cria uma sombra no texto de FPS
-    cv2.putText(frame, fps_label, (0, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 3)     # Crka o texto de FPS
+    cv2.putText(frame, fps_label, (0, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 3)     # Cria o texto de FPS
     cv2.imshow('camera', frame)      # Exibe o frame com o nome "camera"
 ```
 
