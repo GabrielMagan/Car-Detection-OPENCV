@@ -36,7 +36,7 @@
 
 ### 💻(Yolo)💻
 
-- Para utilização da rede neural yolo, desenvolvi um script básico que utiliza a webcam para detecção de objetos.
+- Para utilização do algoritmo YOLO v4, desenvolvi um script básico que utiliza a webcam para detecção de objetos.
 
 <h4 align="center">Importando as bibliotecas necessárias</h4>
 
@@ -61,7 +61,7 @@ with open('nomes/coco.names', 'r') as f:      # Abre o arquivo de nomes da YOLO
 <h4 align="center">Configurando a webcam</h4>
 
 ```bash
-cap = cv2.VideoCapture(0)   # A funcao VideoCapture() recebe o video de uma camera ou de um arquivo
+cap = cv2.VideoCapture(0)   # A funcao VideoCapture() recebe um parametro que pode ser um int (referente a webcam) ou um video .mp4 em formato de str
 cap.set(cv2.CAP_PROP_FRAME_WIDTH, 1920)     # seta a largura do video
 cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 1080)      # seta a altura do video
 ```
